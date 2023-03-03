@@ -10,7 +10,7 @@ public class Main {
 
         int userNumber = 0, guessSteps = 0;
         do {
-            System.out.println("Guess my Number : ");
+            System.out.println("Guess my Number(1 to 100) : ");
             userNumber = sc.nextInt();
 
             guessSteps++;
